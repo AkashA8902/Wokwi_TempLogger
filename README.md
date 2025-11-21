@@ -65,6 +65,3 @@ The system also drives an LED to visually indicate temperature level — brighte
 6. Start simulation ▶️  
 7. Open Serial Monitor @ 115200 baud to see live temperature and humidity logs.
 
----
-
-## 🧩 Example UART Output
